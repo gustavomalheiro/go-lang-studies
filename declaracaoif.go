@@ -25,4 +25,5 @@ func declaracaoNaInicializacao() {
 	if x := 10; x == 10 {
 		fmt.Println("Olá")
 	}
+	// não é muito usado, mas faz parte da linguagem
 }
